@@ -29,5 +29,6 @@ Edit the file `config/db.php` with your DB config
 ### How to run the code 
 1- run 'php yii serve' inside the project folder <br>
 2- go to http://localhost:8080/crypro-reconciliation to get the result for the uploaded file 
+3- you can find the logic insside the following path:  controllers/CryproReconciliationController.php
 
 
