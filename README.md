@@ -11,7 +11,7 @@ INSTALLATION
 ------------
 
 ### Install via cmd
-1- git clone https://github.com/rehamjuma/CryptoTransactionReconciliationService.git
+1- git clone https://github.com/rehamjuma/CryptoTransactionReconciliationService.git \n
 2- run compoer install 
 
 
